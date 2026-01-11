@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Lenovo\Documents\UTEC\2025-2\Sistemas embebidos\Proyecto\Prueba01\Prueba01\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Lenovo\Documents\UTEC\2025-2\Sistemas embebidos\Proyecto\Prueba01\Prueba01\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Lenovo\Documents\UTEC\2025-2\Sistemas embebidos\Proyecto\Prueba01\Prueba01\Debug\Prueba01.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Prueba01.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Prueba01.map</FILE>
+  <FILE>Prueba01.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Lenovo\Documents\UTEC\2025-2\Sistemas embebidos\Proyecto\Prueba01\Prueba01\main.asm</FILE><LINE>12</LINE></RESET>
+  <LOOP_PRINCIPAL><FILE>C:\Users\Lenovo\Documents\UTEC\2025-2\Sistemas embebidos\Proyecto\Prueba01\Prueba01\main.asm</FILE><LINE>21</LINE></LOOP_PRINCIPAL>
+  <LOOP_M1_FWD><FILE>C:\Users\Lenovo\Documents\UTEC\2025-2\Sistemas embebidos\Proyecto\Prueba01\Prueba01\main.asm</FILE><LINE>25</LINE></LOOP_M1_FWD>
+  <PASO_MOTOR1_ADELANTE><FILE>C:\Users\Lenovo\Documents\UTEC\2025-2\Sistemas embebidos\Proyecto\Prueba01\Prueba01\main.asm</FILE><LINE>68</LINE></PASO_MOTOR1_ADELANTE>
+  <DELAY_VELOCIDAD><FILE>C:\Users\Lenovo\Documents\UTEC\2025-2\Sistemas embebidos\Proyecto\Prueba01\Prueba01\main.asm</FILE><LINE>108</LINE></DELAY_VELOCIDAD>
+  <LOOP_M2_FWD><FILE>C:\Users\Lenovo\Documents\UTEC\2025-2\Sistemas embebidos\Proyecto\Prueba01\Prueba01\main.asm</FILE><LINE>33</LINE></LOOP_M2_FWD>
+  <PASO_MOTOR2_ADELANTE><FILE>C:\Users\Lenovo\Documents\UTEC\2025-2\Sistemas embebidos\Proyecto\Prueba01\Prueba01\main.asm</FILE><LINE>102</LINE></PASO_MOTOR2_ADELANTE>
+  <DELAY_MEDIO_SEGUNDO><FILE>C:\Users\Lenovo\Documents\UTEC\2025-2\Sistemas embebidos\Proyecto\Prueba01\Prueba01\main.asm</FILE><LINE>122</LINE></DELAY_MEDIO_SEGUNDO>
+  <LOOP_M1_BCK><FILE>C:\Users\Lenovo\Documents\UTEC\2025-2\Sistemas embebidos\Proyecto\Prueba01\Prueba01\main.asm</FILE><LINE>44</LINE></LOOP_M1_BCK>
+  <PASO_MOTOR1_ATRAS><FILE>C:\Users\Lenovo\Documents\UTEC\2025-2\Sistemas embebidos\Proyecto\Prueba01\Prueba01\main.asm</FILE><LINE>85</LINE></PASO_MOTOR1_ATRAS>
+  <LOOP_M2_BCK><FILE>C:\Users\Lenovo\Documents\UTEC\2025-2\Sistemas embebidos\Proyecto\Prueba01\Prueba01\main.asm</FILE><LINE>52</LINE></LOOP_M2_BCK>
+  <PASO_MOTOR2_ATRAS><FILE>C:\Users\Lenovo\Documents\UTEC\2025-2\Sistemas embebidos\Proyecto\Prueba01\Prueba01\main.asm</FILE><LINE>104</LINE></PASO_MOTOR2_ATRAS>
+  <DELAY_CORTO><FILE>C:\Users\Lenovo\Documents\UTEC\2025-2\Sistemas embebidos\Proyecto\Prueba01\Prueba01\main.asm</FILE><LINE>115</LINE></DELAY_CORTO>
+  <d_v><FILE>C:\Users\Lenovo\Documents\UTEC\2025-2\Sistemas embebidos\Proyecto\Prueba01\Prueba01\main.asm</FILE><LINE>111</LINE></d_v>
+  <d_c><FILE>C:\Users\Lenovo\Documents\UTEC\2025-2\Sistemas embebidos\Proyecto\Prueba01\Prueba01\main.asm</FILE><LINE>118</LINE></d_c>
+  <loop_ext><FILE>C:\Users\Lenovo\Documents\UTEC\2025-2\Sistemas embebidos\Proyecto\Prueba01\Prueba01\main.asm</FILE><LINE>125</LINE></loop_ext>
+  <loop_mid><FILE>C:\Users\Lenovo\Documents\UTEC\2025-2\Sistemas embebidos\Proyecto\Prueba01\Prueba01\main.asm</FILE><LINE>127</LINE></loop_mid>
+  <loop_int><FILE>C:\Users\Lenovo\Documents\UTEC\2025-2\Sistemas embebidos\Proyecto\Prueba01\Prueba01\main.asm</FILE><LINE>129</LINE></loop_int>
+ </LABELS>
+</ASSEMBLER_INFO>
