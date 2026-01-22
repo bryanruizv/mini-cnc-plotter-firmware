@@ -25,3 +25,8 @@ Este proyecto consiste en el diseño y construcción de una máquina CNC de pequ
 2. El usuario selecciona un número en el **teclado matricial** (ej. '1' para cuadrado, '2' para triángulo).
 3. El microcontrolador procesa el comando, posiciona el eje Z (baja la pluma) y ejecuta la secuencia de pasos en X e Y.
 4. Al finalizar, el servomotor levanta la pluma y regresa al origen (Home).
+
+## 📷 Demostración
+| Funcionamiento del Eje Z | Resultado Final |
+| :---: | :---: |
+| ![Proyecto](proyecto) |
