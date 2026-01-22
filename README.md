@@ -27,6 +27,6 @@ Este proyecto consiste en el diseño y construcción de una máquina CNC de pequ
 4. Al finalizar, el servomotor levanta la pluma y regresa al origen (Home).
 
 ## 📷 Demostración
-| Funcionamiento del Eje Z | Resultado Final |
+| Proyecto|
 | :---: | :---: |
 | ![Proyecto](proyecto) |
